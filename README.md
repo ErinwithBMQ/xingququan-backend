@@ -1,29 +1,9 @@
-# my_midway_project
+# 兴趣圈后端
 
-## QuickStart
+## MidwayJS + PostgreSQL
 
-<!-- add docs here for user -->
+这个里面的代码和xingququan那个库里的代码基本一致。
 
-see [midway docs][midway] for more detail.
+GitHub Actions里也有提交后自动打包的配置。
 
-### Development
-
-```bash
-$ npm i
-$ npm run dev
-$ open http://localhost:7001/
-```
-
-### Deploy
-
-```bash
-$ npm start
-```
-
-### npm scripts
-
-- Use `npm run lint` to check code style.
-- Use `npm test` to run unit test.
-
-
-[midway]: https://midwayjs.org
+已经部署到了阿里云服务器上，url: http://47.99.174.164:7001/
