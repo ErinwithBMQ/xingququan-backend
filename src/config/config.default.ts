@@ -41,7 +41,8 @@ export default {
         host: '127.0.0.1',
         port: 5432,
         username: 'postgres',
-        database: 'test',
+        database: 'test', // 数据库名
+        password: '123456', // 数据库密码
         synchronize: true,
         logging: true,
         entities: [User, Xqq, File_upload, PostEntity, Comment, Like],
