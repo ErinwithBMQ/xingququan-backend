@@ -33,7 +33,7 @@ GitHub Actions里也有提交后自动打包的配置。
 
 `npm prune --production`
 
-`pm2 start ./bootstrap.js --backend`
+`pm2 start ./bootstrap.js --name backend`
 
 
 
